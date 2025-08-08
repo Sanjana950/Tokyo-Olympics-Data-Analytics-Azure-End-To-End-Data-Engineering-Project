@@ -9,7 +9,7 @@ The project covers the complete data lifecycle, from **data ingestion** using **
 The architecture of this project involves several Azure services working together to build a scalable, reliable, and efficient data pipeline:
 
 ### **High-Level Architecture Diagram**
-![Project Architecture](Architecture And Data Model/tokyo-olympics.png)
+![Project Architecture](Architecture%20And%20Data%20Model/tokyo-olympics.png)
 
 ### **Key Components**
 1. **GitHub:** The project’s primary code repository and source for input datasets.
